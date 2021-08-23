@@ -13,7 +13,7 @@ cartItem.innerHTML += `
     <tr>
       <th scope="row">${i+1}</th>
       <td>${getItems[i].itemName}</td>
-      <td>${getItems[i].itemName}</td>
+      <td>1</td>
       <td>${getItems[i].itemPrice}</td>
     
     </tr>
